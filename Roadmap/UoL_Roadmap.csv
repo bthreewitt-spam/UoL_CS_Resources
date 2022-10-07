@@ -1,0 +1,31 @@
+Course_ID,Course_Name,Course_Acronym,Level,Language,Status,Course_Name_Language,Specialization,Syllabus_Link,Course_Specifications_Link
+CM1005,Introduction to Programming I,ITP1,4,Javascript,In Progress,Introduction to Programming I: Javascript,,UoL_Resources/Syllabus/CM1005-Syllabus.pdf,UoL_Resources/Course_Specifications/CM1005-Specs.pdf
+CM1010,Introduction to Programming II,ITP2,4,Javascript,Not Started,Introduction to Programming II: Javascript,,UoL_Resources/Syllabus/CM1010-Syllabus.pdf,UoL_Resources/Course_Specifications/CM1010-Specs.pdf
+CM1015,Computational Mathematics,CM,4,,In Progress,Computational Mathematics: N/A,,UoL_Resources/Syllabus/CM1015-Syllabus.pdf,UoL_Resources/Course_Specifications/CM1015-Specs.pdf
+CM1020,Discrete Mathematics,DM,4,,Not Started,Discrete Mathematics: N/A,,UoL_Resources/Syllabus/CM1020-Syllabus.pdf,UoL_Resources/Course_Specifications/CM1020-Specs.pdf
+CM1025,Fundamentals Of Computer Science,FCS,4,,Not Started,Fundamentals of Computer Science: N/A,,UoL_Resources/Syllabus/CM1025-Syllabus.pdf,UoL_Resources/Course_Specifications/CM1025-Specs.pdf
+CM1030,How Computers Work,HCW,4,,Not Started,How Computers Work : N/A,,UoL_Resources/Syllabus/CM1030-Syllabus.pdf,UoL_Resources/Course_Specifications/CM1030-Specs.pdf
+CM1035,Algorithms and Data Structures I,ADS1,4,Javascript,Not Started,Algorithms and Data Structures I: Javascript,,UoL_Resources/Syllabus/CM1035-Syllabus.pdf,UoL_Resources/Course_Specifications/CM1035-Specs.pdf
+CM1040,Web Development,WD,4,Javascript,Not Started,Web Development: Javascript,,UoL_Resources/Syllabus/CM1040-Syllabus.pdf,UoL_Resources/Course_Specifications/CM1040-Specs.pdf
+CM2005,Object Oriented Programming,OOP,5,C++,Not Started,Object Oriented Programming: C++,,UoL_Resources/Syllabus/CM2005-Syllabus.pdf,UoL_Resources/Course_Specifications/CM2005-Specs.pdf
+CM2010,Software Design And Development,SD&D,5,"C++, Javascript, Python",Not Started,"Software Design and Development: C++, Javascript, Python",,UoL_Resources/Syllabus/CM2010-Syllabus.pdf,UoL_Resources/Course_Specifications/CM2010-Specs.pdf
+CM2015,Programming With Data,PWD,5,Python,Not Started,Programming with Data: Python,,UoL_Resources/Syllabus/CM2015-Syllabus.pdf,UoL_Resources/Course_Specifications/CM2015-Specs.pdf
+CM2020,Agile Software Projects,ASP,5,,Not Started,Agile Software Projects: N/A,,UoL_Resources/Syllabus/CM2020-Syllabus.pdf,UoL_Resources/Course_Specifications/CM2020-Specs.pdf
+CM2025,Computer Security,,5,,Not Started,Computer Security: N/A,,,
+CM2030,Graphics Programming,GP,5,Javascript,Not Started,Graphics Programming: Javascript,,UoL_Resources/Syllabus/CM2030-Syllabus.pdf,UoL_Resources/Course_Specifications/CM2030-Specs.pdf
+CM2035,Algorithms And Data Structures Ii,ADS2,5,C++,Not Started,Algorithms and Data Structures II: C++,,UoL_Resources/Syllabus/CM2035-Syllabus.pdf,UoL_Resources/Course_Specifications/CM2035-Specs.pdf
+CM2040,"Databases, Networks And The Web",DNW,5,Javascript,Not Started,"Databases, Networks and the Web: Javascript",,UoL_Resources/Syllabus/CM2040-Syllabus.pdf,UoL_Resources/Course_Specifications/CM2040-Specs.pdf
+CM3005,Data Science,,6,,Not Picked,,"Data Science, User Experience, Web and Mobile Development, Physical Computing and the Internet of Things",,UoL_Resources/Course_Specifications/CM3005-Specs.pdf
+CM3010,Databases and Advanced Data Techniques,DADT,6,,Not Picked,,"Data Science, Machine Learning and Artificial Intelligence, User Experience, Web and Mobile Development",UoL_Resources/Syllabus/CM3010-Syllabus.pdf,UoL_Resources/Course_Specifications/CM3010-Specs.pdf
+CM3015,Machine Learning and Neural Networks,MLNN,6,,Not Picked,,"Data Science, Machine Learning and Artificial Intelligence",UoL_Resources/Syllabus/CM3015-Syllabus.pdf,UoL_Resources/Course_Specifications/CM3015-Specs.pdf
+CM3020,Artificial Intelligence,,6,,Not Picked,,"Machine Learning and Artificial Intelligence, Games Development",,
+CM3025,Virtual Reality,,6,,Not Picked,,"User Experience, Games Development, Virtual Reality",,
+CM3030,Games Development,GD,6,,Not Picked,,"Games Development, Virtual Reality",UoL_Resources/Syllabus/CM3030-Syllabus.pdf,UoL_Resources/Course_Specifications/CM3030-Specs.pdf
+CM3035,Advanced Web Development,AWD,6,,Not Picked,,"Data Science, Machine Learning and Artificial Intelligence",UoL_Resources/Syllabus/CM3035-Syllabus.pdf,UoL_Resources/Course_Specifications/CM3035-Specs.pdf
+CM3040,Physical Computing and the Internet of Things,,6,,Not Picked,,"User Experience, Physical Computing and the Internet of Things",,
+CM3045,3D Graphics and Animation,3DGA,6,,Not Picked,,"Web and Mobile Development, Games Development, Virtual Reality",UoL_Resources/Syllabus/CM3045-Syllabus.pdf,
+CM3050,Mobile Development,,6,,Not Picked,,"User Experience, Web and Mobile Development, Virtual Reality",,
+CM3055,Interaction Design,ID,6,,Not Picked,,"User Experience, Web and Mobile Development, Physical Computing and the Internet of Things, Games Development, Virtual Reality",UoL_Resources/Syllabus/CM3055-Syllabus.pdf,UoL_Resources/Course_Specifications/CM3055-Specs.pdf
+CM3060,Natural Language Processing,,6,,Not Picked,,Data Science,,
+CM3065,Intelligent Signal Processing,ISP,6,,Not Picked,,"Machine Learning and Artificial Intelligence, Physical Computing and the Internet of Things",UoL_Resources/Syllabus/CM3065-Syllabus.pdf,UoL_Resources/Course_Specifications/CM3065-Specs.pdf
+CM3070,The Final Project,,6,,Not Started,,,,
