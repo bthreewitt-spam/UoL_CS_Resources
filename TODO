@@ -1,4 +1,4 @@
-# TODO Put together project README
 # TODO Make UoL_Roadmap_README look pretty
 # TODO Add MD file for getting Student ID
 # FIXME Change KEYS with multiple values to multiple columns so they can be int/bool type for better usability
+# FIXME Refactor project to follow PEP8
