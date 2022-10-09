@@ -12,7 +12,6 @@
 | Status_Key                 | Numeric version of Status (See Keys)                                           | 7                                                    |
 | Language                   | Programming language/languages taught in course if applicable                  | Python, Javascript                                   |
 | Language_Key               | Numeric version of Language (See Keys)                                         | 1, 2                                                 |
-| Course_Name_Language       | DELETE ME                                                                      | !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  |
 | Specialization             | Specialization/Specializations the course belongs to (Level 6)                 | User Experience, Games Development, Virtual Reality  |
 | Specialization_Key         | Numeric version of Specialization (See Keys)                                   | 3, 6, 7                                              |
 | Syllabus Link              | Local path to PDF of course syllabus starting at UoL_Resources Directory       | UoL_Resources/Syllabus/CM2035-Syllabus.pdf           |
